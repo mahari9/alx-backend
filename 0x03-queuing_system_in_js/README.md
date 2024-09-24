@@ -3,7 +3,7 @@
 
 This project focuses on creating a JavaScript-based queuing system.
 
-  ## RESOURCES
+## RESOURCES
 ** Read or watch:**
 + [x] [Redis quick start](https://intranet.alxswe.com/rltoken/8xeApIhnxgFZkgn54BiIeA)
 + [x] [Redis client interface](https://intranet.alxswe.com/rltoken/1rq3ral-3C5O1t67dbGcWg)
